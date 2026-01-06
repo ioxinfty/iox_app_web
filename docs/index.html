@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>iox app</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+
+<body>
+  <div id="app">加载中 ...</div>
+  <script>
+    window.$docsify = {
+      name: 'IOX APP',
+      repo: 'https://github.com/ioxinfty',
+      coverpage: true, // 使用 _coverpage.md 创建封面 
+      onlyCover: true, // 仅显示封面， 不将首页与封面在同一页面中显示
+      loadNavbar: true, // 使用 _navbar.md 创建顶部导航栏
+      loadSidebar: true, // 使用 _sidebar.md 定义侧边栏
+      subMaxLevel: 3, // 文档在侧边栏中显示的子级最大层级
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'classic', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+      }
+
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 图片 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- table -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+</body>
+
+</html>
