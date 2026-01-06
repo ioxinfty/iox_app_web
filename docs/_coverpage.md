@@ -10,5 +10,5 @@
 - 一键导出 Excel（.xlsx）
 - 隐私 & 安全第一
 
-[Github](https://github.com/ioxinfty)
+[Github](https://github.com/ioxinfty/iox_app_web)
 [开始使用](/linkedinapp#领英工具)
