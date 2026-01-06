@@ -7,8 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">    
 </head>
 
 <body>
@@ -28,11 +27,7 @@
         theme: 'classic', // default
         tabComments: true, // default
         tabHeadings: true // default
-      },
-      plugins: [
-        EditOnGithubPlugin.create("https://github.com/ioxinfty/iox_app_web/blob/master/docs/", null, null)
-      ]
-
+      }
     }
   </script>
   <!-- Docsify v4 -->
@@ -41,7 +36,15 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <!-- table -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-  
+  <!-- 在 github 中编辑 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script>
+  // 插件函数在先定义， 所以 plugins 放在最后
+  window.$docsify.plugins = [
+    EditOnGithubPlugin.create("https://github.com/ioxinfty/iox_app_web/blob/master/docs/", null, null)
+  ];
+</script>
+
 </body>
 
 </html>
