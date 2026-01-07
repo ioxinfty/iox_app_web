@@ -10,6 +10,8 @@
 
 ![界面预览](/images/linkedin_app_home.png "界面预览")
 
+![设置界面](/images/linkedin_app_settings.png '设置界面')
+
 <!-- ## 工具介绍 -->
 
 **用技术重新定义社交拓客效率**
