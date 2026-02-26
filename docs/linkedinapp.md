@@ -2,10 +2,10 @@
  跨平台领英人脉智能捕手
 
 <!-- {docsify-ignore-all}  放在第一行 # 后， 会在侧边栏中忽略所有标题 -->
+<!-- ## 界面预览 {docsify-ignore} 侧边栏中忽略该标题 -->
 
-<!-- ## 界面预览 ->  <!-- {docsify-ignore} -->
 
-## 工具介绍
+## 工具介绍 
 
 
 ![界面预览](images/linkedin_app_home.png "界面预览")
