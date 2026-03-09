@@ -12,9 +12,9 @@
 <!-- tabs:start -->
 
 ### **android 平台**
-> 跳转到以下链接进行安装
+> 请扫码进行安装。或是访问 [链接](https://www.pgyer.com/kebooapp-android) 下载 apk 进行安装
 
-[安装页面](https://www.pgyer.com/kebooapp-android)
+<img src="./images/keboo_app_qrcode_840.png" width="215" alt="扫码安装" />
 
 ### **macOS 平台**
 > 打开终端粘贴如下命令
