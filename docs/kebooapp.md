@@ -3,11 +3,9 @@
 
 ## 工具介绍
 
-![主界面](./images/keboo_app_home.png)
-
-![聊天界面](./images/keboo_app_chat.png)
-
-![设置界面](./images/keboo_app_setting.png)
+| 主界面 | 聊天界面 | 设置界面 |
+| :---: | :---: | :---: |
+| ![主界面](./images/keboo_app_home.png) | ![聊天界面](./images/keboo_app_chat.png) | ![设置界面](./images/keboo_app_setting.png) |
 
 ## 安装说明
 
