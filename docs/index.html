@@ -25,15 +25,20 @@
     section.cover {
       background: var(--cover-color) !important;
     }
+
+    .app-name img {
+      width: 130px;
+    }
   </style>
 
 </head>
 
 <body>
-  <div id="app">加载中 ...</div>
+  <div id="app">载入中 ...</div>
   <script>
     window.$docsify = {
       name: 'IOX APP', // 侧边栏顶部标题
+      logo: './images/iox_logo_3.png', // 侧边栏图标
       repo: '',
       coverpage: true, // 使用 _coverpage.md 创建封面 
       onlyCover: true, // 仅显示封面， 不将首页与封面在同一页面中显示
