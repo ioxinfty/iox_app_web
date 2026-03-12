@@ -51,7 +51,7 @@
 
 > - Debian (>= 13) 和 Ubuntu (>= 24.04) 上如果运行失败，可以尝试安装 `sudo add-apt-repository -y universe && sudo apt update && sudo apt install -y libfuse2t64` [详细](https://github.com/AppImage/appimagekit)
 > - 拍照功能还未实现，目前可以长按拍照按钮从系统中选择图片
-> - 推荐使用 [appimagelauncher](https://appimagelauncher.com/) 运行 AppImage
+> - 可使用 [appimagelauncher](https://appimagelauncher.com/) 辅助运行 AppImage
 
 [下载 AppImage](https://files.443disk.xyz/KebooApp.Desktop/KebooApp.Desktop-linux-x64-stable.AppImage-Portable.tar.gz)
 
