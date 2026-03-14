@@ -47,6 +47,17 @@
 /bin/bash -c "$(curl -fsSL https://files.443disk.xyz/KebooApp.Desktop/install-osx.sh)"
 ```
 
+### **Windows 平台**
+
+> 打开终端粘贴如下命令
+> - 拍照功能还未实现，目前可以长按拍照按钮从系统中选择图片
+
+
+```powershell
+powershell -ExecutionPolicy Bypass -Command "iex ([System.Text.Encoding]::UTF8.GetString((iwr -useb 'https://files.443disk.xyz/KebooApp.Desktop/install-win.ps1').Content))"
+```
+
+
 ### **Linux 平台**
 
 > - Debian (>= 13) 和 Ubuntu (>= 24.04) 上如果运行失败，可以尝试安装 `sudo add-apt-repository -y universe && sudo apt update && sudo apt install -y libfuse2t64` [详细](https://github.com/AppImage/appimagekit)
@@ -55,9 +66,6 @@
 
 [下载 AppImage](https://files.443disk.xyz/KebooApp.Desktop/KebooApp.Desktop-linux-x64-stable.AppImage-Portable.tar.gz)
 
-### **Windows 平台**
-
-正在适配中
 
 
 
