@@ -64,7 +64,9 @@ powershell -ExecutionPolicy Bypass -Command "iex ([System.Text.Encoding]::UTF8.G
 > - 拍照功能还未实现，目前可以长按拍照按钮从系统中选择图片
 > - 可使用 [appimagelauncher](https://appimagelauncher.com/) 辅助运行 AppImage
 
-[下载 AppImage](https://files.443disk.xyz/KebooApp.Desktop/KebooApp.Desktop-linux-x64-stable.AppImage-Portable.tar.gz)
+[下载 linux-x64 AppImage](https://files.443disk.xyz/KebooApp.Desktop/KebooApp.Desktop-linux-x64-stable.AppImage-Portable.tar.gz)
+
+[下载 linux-arm64 AppImage](https://files.443disk.xyz/KebooApp.Desktop/KebooApp.Desktop-linux-arm64-stable.AppImage-Portable.tar.gz)
 
 
 
