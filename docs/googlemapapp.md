@@ -50,7 +50,7 @@
 > 想试试？扫一扫，聊聊~
 
 <div style="text-align: center; margin: 30px 0;">
-<img src="./images/qrcode_placeholder.png" alt="联系二维码" style="width: 180px; height: 180px; border: 1px solid #e2e8f0; border-radius: 8px;" />
+<img src="./images/googlemap_app_qrcode.jpg" alt="联系二维码" style="width: 360px; height: 480px; border: 1px solid #e2e8f0; border-radius: 8px;" />
 </div>
 
 ## 设置参数 
