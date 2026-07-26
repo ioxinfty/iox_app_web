@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+* [maps 采集工具](/googlemapapp)
 * [领英工具](/linkedinapp)
 * [一刻不忙](/kebooapp)
 
