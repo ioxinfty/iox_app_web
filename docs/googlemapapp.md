@@ -100,9 +100,9 @@ powershell -ExecutionPolicy Bypass -Command "iex ([System.Text.Encoding]::UTF8.G
 
 ### MoreLogin 服务
 
-> 本应用使用 MoreLogin 指纹浏览器免费的远程控制接口 [morelogin 下载](https://www.morelogin.com/zh) 
-> 使用前请先下载安装并配置好 MoreLogin 指纹浏览器  
-> 第一次使用 MoreLogin 务必激活一下 MoreLogin 的控制接口。在侧边栏的 "开发者 & AI智能体" 按钮上点击一下即可
+> 本应用使用 MoreLogin 指纹浏览器免费的远程控制接口 [morelogin 下载](https://www.morelogin.com/zh) </br>
+> 使用前请先下载安装并配置好 MoreLogin 指纹浏览器  </br>
+> 第一次使用 MoreLogin 务必激活一下 MoreLogin 的控制接口。在侧边栏的 "开发者 & AI智能体" 按钮上点击一下即可 </br>
 
 - **启用服务**：是否启用 MoreLogin 指纹浏览器服务，用于多账号隔离与防封号
 - **服务地址**：MoreLogin 服务的地址（默认 `http://127.0.0.1`）
