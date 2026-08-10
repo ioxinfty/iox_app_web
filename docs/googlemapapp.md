@@ -67,6 +67,15 @@
 <!-- tabs:start -->
 
 
+### **Windows 平台**
+
+> 打开终端粘贴如下命令
+
+```powershell
+powershell -ExecutionPolicy Bypass -Command "iex ([System.Text.Encoding]::UTF8.GetString((iwr -useb 'https://files.443disk.xyz/PlaceHarvester.Desktop/install-win.ps1').Content))"
+```
+
+
 ### **macOS 平台**
 > 打开终端粘贴如下命令
 
