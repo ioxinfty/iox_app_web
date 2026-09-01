@@ -37,7 +37,7 @@
       justify-content: center;
       gap: 24px;
       margin: 40px auto;
-      max-width: 980px;
+      max-width: 1160px;
     }
     .product-card {
       flex: 1 1 260px;
@@ -100,6 +100,17 @@
       color: #fff;
       border-color: transparent;
       box-shadow: 0 4px 14px rgba(16, 185, 129, 0.35);
+    }
+
+    /* 响应式：屏幕缩小时自动减少列数 */
+    @media (max-width: 1160px) {
+      .product-grid { max-width: 860px; }  /* 3 张一排 */
+    }
+    @media (max-width: 900px) {
+      .product-grid { max-width: 560px; }  /* 2 张一排 */
+    }
+    @media (max-width: 600px) {
+      .product-grid { max-width: 300px; }  /* 1 张一排 */
     }
   </style>
 

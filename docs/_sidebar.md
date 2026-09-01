@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [maps 采集工具](/googlemapapp)
+* [Google 地图采集](/googlemapapp)
+* [Yandex 地图采集](/yandexmapapp)
 * [领英工具](/linkedinapp)
 * [一刻不忙](/kebooapp)
 
